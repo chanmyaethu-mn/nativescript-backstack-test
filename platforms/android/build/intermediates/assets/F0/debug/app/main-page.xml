@@ -1,0 +1,17 @@
+<Page loaded="onPageLoaded"> 
+<TabView>
+   <TabView.items>
+     <TabViewItem title="Left Tab">
+       <TabViewItem.view>
+          <Label text="Hi there, I'm Left Tab's Content!" />
+       </TabViewItem.view>
+     </TabViewItem>
+     <TabViewItem title="Right Tab">
+       <TabViewItem.view>
+          <Label text="Howdy, I'm Right Tab's Content!" />
+       </TabViewItem.view>
+     </TabViewItem>
+     
+   </TabView.items>
+</TabView>
+</Page>

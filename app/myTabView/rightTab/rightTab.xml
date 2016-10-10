@@ -1,0 +1,4 @@
+<StackLayout loaded="onViewLoaded" unloaded="">
+    <Label text="Right Tab" textWrap="true" />
+    
+</StackLayout>

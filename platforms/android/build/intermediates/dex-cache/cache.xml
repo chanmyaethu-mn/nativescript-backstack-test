@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_5434c151369ad794dd1d3088c58e5636b29beddf.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_09d25652ad27a6a69684ec3557f745b0b6ad8af3.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_bcbd56d28df39f2cbf8e46904225f4f702ae00ab.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_9fb38436b6c8d4b8960bd6a269b63bfa3193cb0a.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_5858b0a5ccc9ba2655ba5a167c3d50fbef187433.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_f08523512bd8fd9c9835b708811838cbf2f25948.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_4b62a7a0b035912a1b5e9c942a51c2f4f8da33a3.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_fe7fa06c830809e59d878031413608d25b09085f.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_49cef5cca7b8f5424a0705bc25216a9e01d67244.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_8d3ded57cf4babec2f1a18632b3a1ad9f6f60279.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/nativescripttabviewtest/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/nativescripttabviewtest-runtime-unspecified_88372d15649b4e880389e2ef068cffead2e146ac.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_2d4eabdb303e86bc5f2a678b2bc0b01337ebe017.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_798aa827ce107e4d4ddfd5bbacef4b2ae76fef75.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_1bdf20a2b71a42c89eed9d28a4bae237fdff9a92.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_60038f58e346e85b2fef4effd8e5bdcaae36dde3.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_9707b52ccb60dde70b34a90f5c80edc8bdf17429.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/nativescripttabviewtest/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_c5c6044dae15c790522202a6a7fc63e10060308c.jar" />
+    </item>
+    <item
+        jar="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/techfunmmr/nativescript_test/workspace/nativescript-tabview-test/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_0b07d7c563c8683d91c03215824227b10a3526b9.jar" />
+    </item>
+
+</items>

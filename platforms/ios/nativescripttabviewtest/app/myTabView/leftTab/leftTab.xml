@@ -1,0 +1,5 @@
+<StackLayout loaded="onViewLoaded" unloaded="onViewUnloaded">
+    <Label text="Left Tab" textWrap="true" />
+
+    <Button text="Left Test" tap="leftTest" />
+</StackLayout>

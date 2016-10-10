@@ -1,0 +1,19 @@
+<Page loaded="onPageLoaded"> 
+<TabView> 
+   <TabView.items>
+     <TabViewItem title="Left Tab"
+                  xmlns:LeftTab="myTabView/leftTab">
+       <TabViewItem.view>
+          <LeftTab:leftTab />
+       </TabViewItem.view>
+     </TabViewItem>
+     <TabViewItem title="Right Tab"
+                  xmlns:RightTab="myTabView/rightTab">
+       <TabViewItem.view>
+          <RightTab:rightTab />
+       </TabViewItem.view>
+     </TabViewItem>
+     
+   </TabView.items>
+</TabView>
+</Page>
